@@ -11,7 +11,7 @@
 
 
 ### 📝 My Blog
-- 💬[게임 관련 블로그](https://zepelown.tistory.com/)  
+- 💬[개발을 곁들인 게임 관련 블로그](https://zepelown.tistory.com/)  
 - 💻[개발 관련 블로그](https://namamim.tistory.com/)
 
 
