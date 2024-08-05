@@ -2,7 +2,7 @@
 안드로이드와 스프링을 공부하고 있는 FoolStack 개발자입니다!!
 
 
-### What I'm Learning
+### ✏️ What I'm Learning
 #### 📚 Languages 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 #### 🛠️ Frameworks 
