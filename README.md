@@ -12,10 +12,13 @@
 
 ### 📝 My Blog
 - 💬[개발을 곁들인 게임 관련 블로그](https://zepelown.tistory.com/)  
-- 💻[개발 관련 블로그](https://namamim.tistory.com/)
+- 💻[개발만 있는 블로그](https://namamim.tistory.com/)
 
 
 ### 🚀 Team Projects
+#### 😃 WABI(Kotlin & Java Spring, CI/CD)
+부경대학교 소속 및 학생 회비 납부자 확인 서비스
+- 🔗[Wabi Github](https://github.com/pknu-wap/WABI-BE)
 #### 😄 Priend(Android, Java Spring)
 양방향 소통 AI 기능을 부가한 스마트화분 플랜드  
 - 🔗[Priend Github](https://github.com/Zepelown/Priend)
