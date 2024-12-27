@@ -18,17 +18,17 @@
 ### 🚀 Team Projects
 #### 😃 WABI(Kotlin & Java Spring, CI/CD)
 부경대학교 소속 및 학생 회비 납부자 확인 서비스
-- 🔗[Wabi Github](https://github.com/pknu-wap/WABI-BE)
+- 🔗[Github](https://github.com/pknu-wap/WABI-BE)
 #### 😄 Priend(Android, Java Spring)
 양방향 소통 AI 기능을 부가한 스마트화분 플랜드  
-- 🔗[Priend Github](https://github.com/Zepelown/Priend)
+- 🔗[Github](https://github.com/Zepelown/Priend)
 
 ### 📖 Study
-#### Android Blog Study
-- [Github](https://github.com/pknu-wap/android-blog-study)
-#### 한걸음 - 블로그 발표 및 영상 업로드 스터디
-- [Hangeoreum Github](https://github.com/Hangeoreum/Hangeoreum-1)
-- [Youtube Channel](https://www.youtube.com/@%ED%95%9C%EA%B1%B8%EC%9D%8C-r5h)
+#### 🤖 Android Blog Study - 블로그 발표 스터디
+- 🔗[Github](https://github.com/pknu-wap/android-blog-study)
+#### 👣 한걸음 - 블로그 발표 및 영상 업로드 스터디
+- 🔗[Github](https://github.com/Hangeoreum/Hangeoreum-1)
+- 🔗[Youtube Channel](https://www.youtube.com/@%ED%95%9C%EA%B1%B8%EC%9D%8C-r5h)
 
 ### 🛠️ Personal Projects
 #### ⛏️ Minecraft Server Plugin(Java, Kotlin)
