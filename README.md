@@ -22,6 +22,9 @@
 #### 😄 Priend(Android, Java Spring)
 양방향 소통 AI 기능을 부가한 스마트화분 플랜드  
 - 🔗[Github](https://github.com/Zepelown/Priend)
+#### 🧑‍🤝‍🧑 모아동(Java Spring)
+모아 동아리! 부경대학교 모든 동아리를 한눈에
+- 🔗[Github](https://github.com/Moadong/moadong)
 
 ### 📖 Study
 #### 🤖 Android Blog Study
