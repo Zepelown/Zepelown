@@ -1,13 +1,17 @@
 ### 👋 Hi there 
-안드로이드와 스프링을 공부하고 있는 FoolStack 개발자입니다!!
-
+DevOps, Go, Spring를 공부하고 있는 FoolStack 개발자입니다!!
 
 ### ✏️ What I'm Learning
 #### 📚 Languages 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-#### 🛠️ Frameworks 
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+#### 📗 Frameworks 
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+#### 🛠️ DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ### 📝 My Blog
@@ -16,15 +20,36 @@
 
 
 ### 🚀 Team Projects
-#### 😃 WABI(Kotlin & Java Spring, CI/CD)
-부경대학교 소속 및 학생 회비 납부자 확인 서비스
-- 🔗[Github](https://github.com/pknu-wap/WABI-BE)
-#### 😄 Priend(Android, Java Spring)
-양방향 소통 AI 기능을 부가한 스마트화분 플랜드  
-- 🔗[Github](https://github.com/Zepelown/Priend)
-#### 🧑‍🤝‍🧑 모아동(Java Spring)
-모아 동아리! 부경대학교 모든 동아리를 한눈에
-- 🔗[Github](https://github.com/Moadong/moadong)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>😃 WABI (Kotlin & Java Spring, CI/CD)</strong>
+      <br>
+      <p>부경대학교 소속 및 학생 회비 납부자 확인</p>
+      <a href="https://github.com/pknu-wap/WABI-BE">🔗 Github</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>😄 Priend (Android, Java Spring)</strong>
+      <br>
+      <p>양방향 소통 AI 기능을 부가한 스마트화분</p>
+      <a href="https://github.com/Zepelown/Priend">🔗 Github</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🧑‍🤝‍🧑 모아동 (Java Spring)</strong>
+      <br>
+      <p>모아 동아리! 부경대학교 모든 동아리를 한눈에</p>
+      <a href="https://github.com/Moadong/moadong">🔗 Github</a> 
+      <a href="https://www.moadong.com/">🔗 WebSite</a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- 이 칸은 비워둡니다 -->
+    </td>
+  </tr>
+</table>
+
+
 
 ### 📖 Study
 #### 🤖 Android Blog Study
